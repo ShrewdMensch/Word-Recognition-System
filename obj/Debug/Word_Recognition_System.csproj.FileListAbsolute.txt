@@ -1,0 +1,17 @@
+c:\users\bolarinwa\documents\visual studio 2015\Projects\Word_Recognition_System\bin\Debug\Word_Recognition_System.exe.config
+c:\users\bolarinwa\documents\visual studio 2015\Projects\Word_Recognition_System\bin\Debug\Word_Recognition_System.exe
+c:\users\bolarinwa\documents\visual studio 2015\Projects\Word_Recognition_System\bin\Debug\Word_Recognition_System.pdb
+c:\users\bolarinwa\documents\visual studio 2015\Projects\Word_Recognition_System\obj\Debug\Word_Recognition_System.csprojResolveAssemblyReference.cache
+c:\users\bolarinwa\documents\visual studio 2015\Projects\Word_Recognition_System\obj\Debug\Word_Recognition_System.MainMenu.resources
+c:\users\bolarinwa\documents\visual studio 2015\Projects\Word_Recognition_System\obj\Debug\Word_Recognition_System.Properties.Resources.resources
+c:\users\bolarinwa\documents\visual studio 2015\Projects\Word_Recognition_System\obj\Debug\Word_Recognition_System.csproj.GenerateResource.Cache
+c:\users\bolarinwa\documents\visual studio 2015\Projects\Word_Recognition_System\obj\Debug\Word_Recognition_System.exe
+c:\users\bolarinwa\documents\visual studio 2015\Projects\Word_Recognition_System\obj\Debug\Word_Recognition_System.pdb
+C:\Users\Bolarinwa\Documents\Visual Studio 2015\Projects\Word_Recognition_System\obj\Debug\Word_Recognition_System.AddItems.resources
+C:\Users\Bolarinwa\Documents\Visual Studio 2015\Projects\Word_Recognition_System\obj\Debug\Word_Recognition_System.Words.resources
+C:\Users\Bolarinwa\Documents\Visual Studio 2015\Projects\Word_Recognition_System\obj\Debug\Word_Recognition_System.Letters.resources
+C:\Users\Bolarinwa\Documents\Visual Studio 2015\Projects\Word_Recognition_System\obj\Debug\Word_Recognition_System.SplashScreen.resources
+C:\Users\Bolarinwa\Documents\Visual Studio 2015\Projects\Word_Recognition_System\obj\Debug\Word_Recognition_System.WordMgt.resources
+C:\Users\Bolarinwa\Documents\Visual Studio 2015\Projects\Word_Recognition_System\obj\Debug\Word_Recognition_System.AdminArea.resources
+C:\Users\Bolarinwa\Documents\Visual Studio 2015\Projects\Word_Recognition_System\obj\Debug\Word_Recognition_System.Login.resources
+C:\Users\Bolarinwa\Documents\Visual Studio 2015\Projects\Word_Recognition_System\obj\Debug\Word_Recognition_System.Numbers.resources
